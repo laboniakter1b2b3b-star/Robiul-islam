@@ -1,0 +1,42 @@
+﻿Setting Key,Setting Value
+site_name,PRODUCT HUB BD
+site_tagline,Curated Essentials for Modern Living
+default_language,auto
+site_logo,
+favicon_url,
+hero_banner,/src/assets/images/hero_flagship_banner_1795097542425.jpg
+hero_title,Curated Essentials for Modern Living
+hero_subtitle,"Architectural apparel, brushed steel timepieces, full-grain leather carry, and studio audio engineered for daily life in Bangladesh."
+hero_cta_text,Shop Collection
+secondary_banner,/src/assets/images/banner_craft_atelier_1795097543302.jpg
+secondary_title,Dhaka Design Atelier
+secondary_subtitle,"Small-batch production using breathable organic textiles, vegetable-tanned hides, and precision hardware."
+promo_banner_text,"Use code WELCOME10 for 10% off your first order · Free Dhaka delivery over ৳5,000"
+whatsapp_number,+8801711000000
+support_phone,+880 1711-000000
+support_email,robiulvv290@gmail.com
+store_address,"House 24, Road 11, Banani, Dhaka 1213, Bangladesh"
+bkash_number,01704323915
+nagad_number,01704323915
+cod_enabled,true
+delivery_charge_dhaka,70
+delivery_charge_outside,130
+free_delivery_threshold,5000
+tax_rate_percent,0
+social_facebook,https://facebook.com
+social_instagram,https://instagram.com
+social_youtube,https://youtube.com
+seo_title,"PRODUCT HUB BD — Premium Apparel, Watches, Carry & Tech Store"
+seo_description,"Shop curated menswear, minimalist watches, leather bags, footwear, and studio headphones across Bangladesh with bKash, Nagad, and Cash on Delivery."
+about_content,"Founded in Dhaka, PRODUCT HUB BD brings together architectural apparel, precision-crafted watches, full-grain leather goods, and refined personal audio. Every item is inspected in our Banani studio before dispatch across all 64 districts of Bangladesh."
+privacy_policy,"PRODUCT HUB BD respects your privacy. For direct store orders, only necessary details (name, phone, delivery address, and optional email) are used strictly to process orders, verify manual bKash/Nagad payments, and provide delivery updates. We never store payment card details or request wallet PINs/OTPs. For AliExpress Affiliate items, clicking Buy Now redirects directly to AliExpress and no delivery address is collected on our site."
+terms_conditions,All direct store prices are listed in Bangladeshi Taka (BDT). Orders placed via manual bKash or Nagad Send Money enter Pending Verification until our team confirms the Transaction ID. Stock is reserved upon order placement and automatically restored if an order is cancelled before dispatch. AliExpress affiliate products are fulfilled and priced directly on AliExpress.
+shipping_policy,"Inside Dhaka deliveries arrive within 24–48 hours (৳70 flat rate). Outside Dhaka nationwide courier deliveries arrive within 2–4 business days (৳130 flat rate). Orders above ৳5,000 qualify for complimentary delivery across Bangladesh."
+return_policy,"Items may be returned or exchanged within 7 days of delivery provided tags, original packaging, and unworn condition are intact. Refunds for verified bKash/Nagad orders are processed back to the sender wallet within 48 hours of return inspection."
+footer_text,"Precision essentials curated in Dhaka, delivered nationwide across all 64 districts."
+aliexpress_enabled,true
+aliexpress_account_name,PRODUCT HUB BD AliExpress Affiliate
+aliexpress_tracking_id,
+aliexpress_app_key,
+aliexpress_commission_rate,
+aliexpress_disclosure,"Affiliate Disclosure: PRODUCT HUB BD participates in the AliExpress Affiliate Program. Clicking Buy Now redirects you to the official AliExpress product page, and we may earn a qualifying commission at no extra cost to you. No delivery address or payment details are collected here for AliExpress items."

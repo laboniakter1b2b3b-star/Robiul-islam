@@ -1,0 +1,6 @@
+{
+  "name": "PRODUCT HUB BD",
+  "description": "Curated apparel, minimalist timepieces, full-grain leather carry, footwear, and studio audio delivered across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
